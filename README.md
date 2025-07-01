@@ -5,6 +5,8 @@
 - [Preface](#Preface)
 - [Design plan](#Design-plan)
 - [Materials List](#Materials-List)
+- [Photo](#Photo)
+- [Videos](#Videos)
 
 
 ## Preface
@@ -27,3 +29,7 @@ Regarding this WRO car, we use a custom car. It is rear-wheel-drive (RWD) to ens
 - 7.4V 5200mah 25C Bettery
 - 3D printed mounting board
 - orin nano 8GB
+
+## Photo
+
+## Videos
