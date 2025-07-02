@@ -3,9 +3,26 @@
 ## Contents
 
 - [Preface](#Preface)
+
 - [Design plan](#Design-plan)
+
+  -[Obstacle Avoidance System Design](#Obstacle-Avoidance-System-Design)
+  
+  -[Velosity Controling System Design](#Velosity-Controling-System-Design)
+  
+  -[Turning System Design](#Turning-System-Design)
+  
 - [Materials List](#Materials-List)
+
+- [Team Photo](#Team-Photo)
+
 - [Videos](#Videos)
+
+  -[Anti-clockwise non-obstacle track](#Anti-clockwise-non-obstacle-track)
+  
+  -[Anti-clockwise obstacle track](#Anti-clockwise-obstacle-track)
+  
+- [Reference link](#Reference-link)
 
 
 ## Preface
@@ -34,7 +51,7 @@ At first,we set a throttle value at Orin Neno.We use a separate circuit board to
 Here is the graphic shown of how each part of PID avoid the stablize of speed of car
 ![PID_Compensation_Animated](https://github.com/user-attachments/assets/0fff1022-56bb-44ba-ae9f-740df99037f7)
 
-### Turning system design
+### Turning System Design
 We make use of road following model building method of jetson neno.
 
 At first,we taking some image(around200) and use the different X coordinates repercent the turning (small x-coordinate mean turn left and large x-coordinate mean turn right)
