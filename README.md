@@ -30,6 +30,8 @@ Regarding this WRO car, we use a custom car. It is rear-wheel-drive (RWD) to ens
 - 3D printed mounting board
 - orin nano 8GB
 
-## Photo
+## Team Photo
+
+## Car Photo
 
 ## Videos
