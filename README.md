@@ -5,7 +5,6 @@
 - [Preface](#Preface)
 - [Design plan](#Design-plan)
 - [Materials List](#Materials-List)
-- [Photo](#Photo)
 - [Videos](#Videos)
 
 
@@ -56,26 +55,11 @@ At first,we taking some image(around200) and use the different X coordinates rep
 ![IMG_20250702_155817](https://github.com/user-attachments/assets/6bad701f-2c3c-434e-b6f0-d1e99728f950)
 ![IMG_20250702_155833](https://github.com/user-attachments/assets/3525c81c-2976-4c74-8a9b-1a758f7c8962)
 
-
-
-## Car Photo
-![IMG-20250630-WA0079](https://github.com/user-attachments/assets/d156aeac-5f26-4984-ae09-9fdaf8254ea7)
-![IMG-20250630-WA0078](https://github.com/user-attachments/assets/5be0584c-5c92-437a-9bd4-5d236d986abd)
-![IMG-20250630-WA0077](https://github.com/user-attachments/assets/f4658fae-a32a-45c8-a2af-3caebeb7bcb7)
-![IMG-20250630-WA0076](https://github.com/user-attachments/assets/eacca38f-a581-49d1-891c-a3d3c2c0d3ce)
-![IMG-20250630-WA0075](https://github.com/user-attachments/assets/4aa4ae82-1c0e-480d-8446-e8f5ce290806)
-![IMG-20250630-WA0074](https://github.com/user-attachments/assets/9ef45be5-e9cd-4fd0-8c68-6f31bf0c1be3)
-![IMG-20250630-WA0073](https://github.com/user-attachments/assets/08a44a42-3eaa-490f-8d23-80814369ad71)
-![IMG-20250630-WA0072](https://github.com/user-attachments/assets/621e8203-91a1-41d1-8fab-7b324057888d)
-![IMG-20250630-WA0070](https://github.com/user-attachments/assets/476e0017-dec7-4be4-8b5f-56e16c0e99b6)
-![IMG-20250630-WA0069](https://github.com/user-attachments/assets/45017fed-59e6-4d9e-a2be-5e160ccebc04)
-![IMG-20250630-WA0082](https://github.com/user-attachments/assets/40623164-6cd5-441d-b2a8-21f8c94ee627)
-
 ## Videos
-## Anti-clockwise non-obstacle track
+### Anti-clockwise non-obstacle track
 https://youtu.be/owy3CJZng4w?si=nF-QKbm0MD8-GtaB
 
-## Anti-clockwise obstacle track
+### Anti-clockwise obstacle track
 https://youtu.be/lJq19d5X1js?si=-KF2ZG_xXKJI6lv7
 
 
