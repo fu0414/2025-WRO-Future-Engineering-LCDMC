@@ -72,6 +72,12 @@ At first,we taking some image(around200) and use the different X coordinates rep
 ![IMG-20250630-WA0082](https://github.com/user-attachments/assets/40623164-6cd5-441d-b2a8-21f8c94ee627)
 
 ## Videos
+## Anti-clockwise non-obstacle track
+https://youtu.be/owy3CJZng4w?si=nF-QKbm0MD8-GtaB
+
+## Anti-clockwise obstacle track
+https://youtu.be/lJq19d5X1js?si=-KF2ZG_xXKJI6lv7
+
 
 ## Reference link
 [1] https://github.com/HumanSignal/labelImg labelImg form Isell
