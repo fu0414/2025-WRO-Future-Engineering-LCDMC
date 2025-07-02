@@ -25,7 +25,7 @@ First,we take a set data of 'red' and 'green' blocks and label them through Labe
 After that we build a model of yolo to tell Orin Nneo what the object is and it can give action
 
 In code,we make use of yolo model to identify object with different colour and follow the flow show in figure1.1
-![WhatsApp 图像2025-07-02于14 29 01_3eb417db](https://github.com/user-attachments/assets/583e9504-cbab-40c0-8966-1f92a848adce)
+![WhatsApp 图像2025-07-02于18 45 39_e29862a7](https://github.com/user-attachments/assets/c8c6baf2-1c4a-4e26-bd1d-637abf77bf8b)
 The code we accomplish this function are provided at 'code' 
 
 ### Velosity Controling System Design
